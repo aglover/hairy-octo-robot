@@ -1,6 +1,6 @@
 # Hairy Octo Robot 
 
-Simple Node, Coffeescript, and jQuery Mobile template (plus deployment to Heroku). And connect-assets for Coffeescript includes.
+Simple Node, Coffeescript, and jQuery Mobile template (plus deployment to Heroku). And connect-assets for Coffeescript includes. This project makes use of Jade as a template engine. 
 
 ## Installation 
 
